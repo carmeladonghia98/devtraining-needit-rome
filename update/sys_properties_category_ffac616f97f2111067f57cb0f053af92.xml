@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Needit Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 13:44:47</sys_created_on>
+        <sys_id>ffac616f97f2111067f57cb0f053af92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_ffac616f97f2111067f57cb0f053af92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 13:44:47</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 14pt;"><strong>BUONGIORNO</strong></span></p>
+<p><span style="font-size: 14pt;"><strong><img style="align: baseline;" title="" src="08C4AAB8-434F-47A2-9650-41B8AD706580.pngx" alt="" width="300" height="450" align="baseline" border="" hspace="" vspace="" /></strong></span></p>
+<p><span style="font-size: 7.5pt;"><strong>questa è la mia immagine</strong></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=ffac616f97f2111067f57cb0f053af92"/>
+</record_update>
